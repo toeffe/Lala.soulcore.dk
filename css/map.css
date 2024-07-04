@@ -78,6 +78,15 @@
             z-index: 2;
         }
 
+        .lunch-box-L {
+            height: 8.6%;
+            width: 72%;
+        }
+
+        .lunch-box-L-AntiRotate {
+            transform: rotate(45deg) !important;
+        }
+
 
         .lunch-box-L-text {
             margin: -15px 0 0 15px;
