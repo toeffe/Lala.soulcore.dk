@@ -112,8 +112,8 @@
         }
 
         .lunch-box-L {
-            height: 6.6%;
-            width: 13.6%;
+            height: 8.6%;
+            width: 72%;
         }
 
         .lunch-box-L-AntiRotate {
@@ -242,43 +242,43 @@
 
 
         .L1 {
-            top: 47.3%;
-            left: 67.9%;
+            top: 76.9%;
+            left: 80.9%;
             transform-origin: top left;
             transform: rotate(270deg);
         }
 
         .L2 {
-            top: 47.3%;
-            left: 75.9%;
+            top: 76.9%;
+            left: 65.9%;
             transform-origin: top left;
             transform: rotate(270deg);
         }
 
         .L3 {
-            top: 47.3%;
-            left: 83.9%;
+            top: 76.9%;
+            left: 52.9%;
             transform-origin: top left;
             transform: rotate(270deg);
         }
 
         .L4 {
-            top: 66.9%;
-            left: 67.9%;
+            top: 76.9%;
+            left: 38.9%;
             transform-origin: top left;
             transform: rotate(270deg);
         }
 
         .L5 {
-            top: 66.9%;
-            left: 75.9%;
+            top: 76.9%;
+            left: 24.1%;
             transform-origin: top left;
             transform: rotate(270deg);
         }
 
         .L6 {
-            top: 66.9%;
-            left: 83.9%;
+            top: 76.9%;
+            left: 10.9%;
             transform-origin: top left;
             transform: rotate(270deg);
         }
