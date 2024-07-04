@@ -69,175 +69,13 @@
             cursor: pointer;
         }
 
-        .lunch-box {
-            border: 1px solid red;
-            z-index: 100;
-            position: absolute;
-            text-align: center;
-            text-indent: 0;
-            z-index: 2;
-        }
-
-        .lunch-box-I {
-            height: 6.5%;
-            width: 14.5%;
-        }
-
-        .lunch-box-G {
-            height: 6.6%;
-            width: 13.6%;
-        }
-
-        .lunch-box-G-AntiRotate {
-            transform: rotate(225deg) !important;
-        }
-
-
-        .lunch-box-G-text {
-            margin: -12px 0 0 -10px;
-        }
-
-        .lunch-box-B {
-            height: 6.3%;
-            width: 14.8%;
-        }
-
-        .lunch-box-B-AntiRotate {
-            transform: rotate(135deg) !important;
-        }
-
-
-        .lunch-box-B-text {
-            margin: 5px 0 0 2px;
-        }
-
         .lunch-box-L {
             height: 8.6%;
             width: 72%;
         }
 
-        .lunch-box-L-AntiRotate {
-            transform: rotate(45deg) !important;
-        }
-
-
         .lunch-box-L-text {
             margin: -15px 0 0 15px;
-        }
-
-        .I1 {
-            top: 68.2%;
-            left: 52.8%;
-        }
-
-        .I2 {
-            top: 76.1%;
-            left: 52.8%;
-        }
-
-        .I3 {
-            top: 84.1%;
-            left: 52.8%;
-        }
-
-        .I4 {
-            top: 68.2%;
-            left: 32.2%;
-        }
-
-        .I5 {
-            top: 76.1%;
-            left: 32.2%;
-        }
-
-        .I6 {
-            top: 84.1%;
-            left: 32.2%;
-        }
-
-        .G1 {
-            top: 53.1%;
-            left: 32.2%;
-            transform-origin: top left;
-            transform: rotate(90deg);
-        }
-
-        .G2 {
-            top: 53.1%;
-            left: 24.2%;
-            transform-origin: top left;
-            transform: rotate(90deg);
-        }
-
-        .G3 {
-            top: 53.1%;
-            left: 16.1%;
-            transform-origin: top left;
-            transform: rotate(90deg);
-        }
-
-        .G4 {
-            top: 33.6%;
-            left: 32.2%;
-            transform-origin: top left;
-            transform: rotate(90deg);
-        }
-
-        .G5 {
-            top: 33.6%;
-            left: 24.2%;
-            transform-origin: top left;
-            transform: rotate(90deg);
-        }
-
-        .G6 {
-            top: 33.6%;
-            left: 16.1%;
-            transform-origin: top left;
-            transform: rotate(90deg);
-        }
-
-
-        .B1 {
-            top: 32.2%;
-            left: 47.0%;
-            transform-origin: top left;
-            transform: rotate(180deg);
-        }
-
-        .B2 {
-            top: 24.1%;
-            left: 47.0%;
-            transform-origin: top left;
-            transform: rotate(180deg);
-        }
-
-        .B3 {
-            top: 16.3%;
-            left: 47.0%;
-            transform-origin: top left;
-            transform: rotate(180deg);
-        }
-
-        .B4 {
-            top: 32.2%;
-            left: 67.8%;
-            transform-origin: top left;
-            transform: rotate(180deg);
-        }
-
-        .B5 {
-            top: 24.1%;
-            left: 67.8%;
-            transform-origin: top left;
-            transform: rotate(180deg);
-        }
-
-        .B6 {
-            top: 16.3%;
-            left: 67.8%;
-            transform-origin: top left;
-            transform: rotate(180deg);
         }
 
 
@@ -245,42 +83,42 @@
             top: 76.9%;
             left: 80.9%;
             transform-origin: top left;
-            transform: rotate(270deg);
+            transform: rotate(90deg);
         }
 
         .L2 {
             top: 76.9%;
             left: 65.9%;
             transform-origin: top left;
-            transform: rotate(270deg);
+            transform: rotate(90deg);
         }
 
         .L3 {
             top: 76.9%;
             left: 52.9%;
             transform-origin: top left;
-            transform: rotate(270deg);
+            transform: rotate(90deg);
         }
 
         .L4 {
             top: 76.9%;
             left: 38.9%;
             transform-origin: top left;
-            transform: rotate(270deg);
+            transform: rotate(90deg);
         }
 
         .L5 {
             top: 76.9%;
             left: 24.1%;
             transform-origin: top left;
-            transform: rotate(270deg);
+            transform: rotate(90deg);
         }
 
         .L6 {
             top: 76.9%;
             left: 10.9%;
             transform-origin: top left;
-            transform: rotate(270deg);
+            transform: rotate(90deg);
         }
 
     }
