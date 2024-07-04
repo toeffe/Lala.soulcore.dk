@@ -79,7 +79,7 @@
         }
 
         .lunch-box-L {
-            height: 8.6%;
+            height: 4.6%;
             width: 72%;
         }
 
@@ -102,76 +102,76 @@
 
         .L2 {
             top: 4.9%;
-            left: 75%;
+            left: 85%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
 
         .L3 {
             top: 4.9%;
-            left: 62%;
+            left: 75%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
 
         .L4 {
             top: 4.9%;
-            left: 48%;
+            left: 70%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
 
         .L5 {
             top: 4.9%;
-            left: 33.1%;
+            left: 62.1%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
 
         .L6 {
             top: 4.9%;
-            left: 19.5%;
+            left: 57.5%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
         .L7 {
-            top: 4.9%;
-            left: 90%;
-            transform-origin: top left;
-            transform: rotate(90deg);
-        }
-
-        .L8 {
-            top: 4.9%;
-            left: 75%;
-            transform-origin: top left;
-            transform: rotate(90deg);
-        }
-
-        .L9 {
-            top: 4.9%;
-            left: 62%;
-            transform-origin: top left;
-            transform: rotate(90deg);
-        }
-
-        .L10 {
             top: 4.9%;
             left: 48%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
 
+        .L8 {
+            top: 4.9%;
+            left: 43%;
+            transform-origin: top left;
+            transform: rotate(90deg);
+        }
+
+        .L9 {
+            top: 4.9%;
+            left: 33%;
+            transform-origin: top left;
+            transform: rotate(90deg);
+        }
+
+        .L10 {
+            top: 4.9%;
+            left: 28%;
+            transform-origin: top left;
+            transform: rotate(90deg);
+        }
+
         .L11 {
             top: 4.9%;
-            left: 33.1%;
+            left: 20.1%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
 
         .L12 {
             top: 4.9%;
-            left: 19.5%;
+            left: 15.5%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
