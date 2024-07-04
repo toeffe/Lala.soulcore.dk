@@ -70,7 +70,7 @@
         }
 
         .lunch-box {
-            /* border: 1px solid red; */
+            border: 1px solid red;
             z-index: 100;
             position: absolute;
             text-align: center;
