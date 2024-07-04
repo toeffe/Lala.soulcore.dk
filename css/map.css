@@ -84,12 +84,12 @@
         }
 
         .lunch-box-L-AntiRotate {
-            transform: rotate(90deg) !important;
+            transform: rotate(270deg) !important;
         }
 
 
         .lunch-box-L-text {
-            margin: -15px 0 0 15px;
+            margin: 2px 0px 0px -7px;
         }
 
 
@@ -204,11 +204,10 @@
         border: 1px solid gray;
         /* red border */
         text-indent: 0;
-        margin: -26px 0 0 0px;
+        /* margin: -26px 0 0 0px; */
         z-index: 50;
-
         transform-origin: top left;
-        transform: rotate(-45deg);
+        /* transform: rotate(-45deg); */
         animation-name: bounce;
         animation-fill-mode: both;
         animation-duration: 1s;
