@@ -94,43 +94,43 @@
 
 
         .L1 {
-            top: 76.9%;
-            left: 80.9%;
+            top: 4.9%;
+            left: 90%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
 
         .L2 {
-            top: 76.9%;
-            left: 65.9%;
+            top: 4.9%;
+            left: 75%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
 
         .L3 {
-            top: 76.9%;
-            left: 52.9%;
+            top: 4.9%;
+            left: 62%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
 
         .L4 {
-            top: 76.9%;
-            left: 38.9%;
+            top: 4.9%;
+            left: 48%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
 
         .L5 {
-            top: 76.9%;
-            left: 24.1%;
+            top: 4.9%;
+            left: 33.1%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
 
         .L6 {
-            top: 76.9%;
-            left: 10.9%;
+            top: 4.9%;
+            left: 19.5%;
             transform-origin: top left;
             transform: rotate(90deg);
         }
