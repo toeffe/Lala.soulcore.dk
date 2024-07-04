@@ -134,6 +134,47 @@
             transform-origin: top left;
             transform: rotate(90deg);
         }
+        .L7 {
+            top: 4.9%;
+            left: 90%;
+            transform-origin: top left;
+            transform: rotate(90deg);
+        }
+
+        .L8 {
+            top: 4.9%;
+            left: 75%;
+            transform-origin: top left;
+            transform: rotate(90deg);
+        }
+
+        .L9 {
+            top: 4.9%;
+            left: 62%;
+            transform-origin: top left;
+            transform: rotate(90deg);
+        }
+
+        .L10 {
+            top: 4.9%;
+            left: 48%;
+            transform-origin: top left;
+            transform: rotate(90deg);
+        }
+
+        .L11 {
+            top: 4.9%;
+            left: 33.1%;
+            transform-origin: top left;
+            transform: rotate(90deg);
+        }
+
+        .L12 {
+            top: 4.9%;
+            left: 19.5%;
+            transform-origin: top left;
+            transform: rotate(90deg);
+        }
 
     }
 
