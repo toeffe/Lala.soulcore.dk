@@ -414,21 +414,7 @@ document.addEventListener('DOMContentLoaded', async function () {
     images_path = "/images/maps/"
     var img_array = [
         // { image: images_path + "test.png", seconds_image: 1, image2: images_path + "pedro.gif" },
-        { image: images_path + "Astro.png", seconds_image: 0, image2: "" },
-        { image: images_path + "Astro1.png", seconds_image: 0, image2: "" },
-        { image: images_path + "Astro2.png", seconds_image: 0, image2: "" },
-        { image: images_path + "Jimmi.png", seconds_image: 0, image2: "" },
-        { image: images_path + "Jimmi1.png", seconds_image: 0, image2: "" },
-        { image: images_path + "Kim.png", seconds_image: 0, image2: "" },
-        { image: images_path + "Mallar.png", seconds_image: 0, image2: "" },
-        { image: images_path + "Mallar1.png", seconds_image: 0, image2: "" },
-        { image: images_path + "pitti.png", seconds_image: 0, image2: "" },
-        { image: images_path + "pitti1.png", seconds_image: 0, image2: "" },
-        { image: images_path + "Toeffe.png", seconds_image: 0, image2: "" },
-        { image: images_path + "Toeffe1.png", seconds_image: 0, image2: "" },
-        { image: images_path + "Toeffe2.png", seconds_image: 1, image2: images_path + "Pedro.gif" },
-        { image: images_path + "map_v5.png", seconds_image: 0, image2: "" },
-        { image: images_path + "map_v5.png", seconds_image: 1, image2: images_path + "Pedro.gif" },
+        { image: images_path },
     ];
 
     var random = Math.floor(Math.random() * img_array.length) + 0;
