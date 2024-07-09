@@ -3,19 +3,20 @@ document.addEventListener('DOMContentLoaded', () => {
     const numbersContainer = document.getElementById('numbers');
 
     numbers.forEach(number => {
-        const numberContainer = document.createElement('div');
-        numberContainer.className = 'number-container';
+        const row = document.createElement('tr');
 
-        const numberElement = document.createElement('div');
-        numberElement.className = 'number';
-        numberElement.textContent = number;
+        const numberCell = document.createElement('td');
+        numberCell.className = 'number';
+        numberCell.textContent = number;
+        row.appendChild(numberCell);
 
-        const infoElement = document.createElement('div');
-        infoElement.className = 'info';
-        infoElement.textContent = `Information about number ${number}`;
+        for (let i = 0; i < 9; i++) {
+            const infoCell = document.createElement('td');
+            infoCell.contentEditable = true;
+            infoCell.textContent = `Info ${i + 1}`;
+            row.appendChild(infoCell);
+        }
 
-        numberContainer.appendChild(numberElement);
-        numberContainer.appendChild(infoElement);
-        numbersContainer.appendChild(numberContainer);
+        numbersContainer.appendChild(row);
     });
 });
