@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.number {
+    cursor: pointer;
+    color: blue;
+    margin: 5px 0;
+}
+
+.info {
+    display: none;
+    margin: 5px 0;
+    color: green;
+}
