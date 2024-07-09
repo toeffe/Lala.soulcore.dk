@@ -2,14 +2,25 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.number {
-    cursor: pointer;
-    color: blue;
-    margin: 5px 0;
+table {
+    width: 100%;
+    border-collapse: collapse;
 }
 
-.info {
-    display: none;
-    margin: 5px 0;
-    color: green;
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+.number {
+    color: blue;
 }
